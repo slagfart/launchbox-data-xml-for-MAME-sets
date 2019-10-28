@@ -1,13 +1,11 @@
 # launchbox-data-xml-for-MAME-sets
 Allows you to instantly import an up-to-date set of MAME Software ROMS and CHDs into Launchbox
 
-## Instructions - basic mode:
+## Instructions:
 
 1. Download all MAME sets without their torrent-name subfolders into `<Your LaunchBox Dir>/Games/MAME/`. So, for example, you should have the file `<Your LaunchBox Dir>/Games/MAME/saturn/2taxgold/2tax gold (t-4305g).chd`.
-2. Download this torrent as a zip, or (preferably) set up git commandline to `git pull` this into your Launchbox folder (probably `git init;git remote add origin https://github.com/slagfart/launchbox-data-xml-for-MAME-sets.git;git fetch;git checkout origin/master -ft`)
-3. Extract the torrent to your LaunchBox directory. You may want to take a backup of your existing platform XML if you have any defined.
-
-Alternatively, you can use git commandline tools to git pull these files before starting Launchbox, if you update your MAME sets as they're released.
+2. Run `git init;git remote add origin https://github.com/slagfart/launchbox-data-xml-for-MAME-sets.git;git fetch;git checkout origin/master -ft` inside your LaunchBox folder to download this repo into your Launchbox folder
+3. Whenever you like, run `git pull` in your Launchbox folder in order to update your XML to the latest version of this repo's contents
 
 ## Contributing:
 
