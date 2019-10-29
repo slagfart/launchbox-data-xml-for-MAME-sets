@@ -16,3 +16,8 @@ I'm only one guy so I can't fix all the metadata myself. Each platform needs a '
 2. Use the Launchbox interfaceto define your XML, making sure you use the folder structure I mention above, and the latest MAME CHD sets.
 3. Create a pull request with the updated XML file. I'll check the folder structure, and will accept ASAP.
 4. If you want to do a rough cut first, and then do another update later, please feel free. Anything is better than nothing.
+
+## Progress:
+
+* Saturn - WIP (Slagfart)
+* Other consoles - open to contribution!
