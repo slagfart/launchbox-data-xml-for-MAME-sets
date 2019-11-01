@@ -8,16 +8,8 @@
 2. Run `git init;git remote add origin https://github.com/slagfart/launchbox-data-xml-for-MAME-sets.git;git fetch;git checkout origin/master -ft` inside your LaunchBox folder. Warning! This will overwrite any existing data files in your LaunchBox folder with this repo, which may be less complete than your carefully curated set!
 3. Whenever you like, run `git pull` in your Launchbox folder in order to update your XML to the latest version of this repo's contents
 
-## Contributing:
+## Platforms done:
 
-I'm only one guy so I can't fix all the metadata myself. Each platform needs a 'steward', also to make sure the Launchbox database gets updated with any missing titles.
-
-1. Create a github issue for the platform you want to create to reserve the platform for yourself. This stops others duplicating the same work.
-2. Use the Launchbox interfaceto define your XML, making sure you use the folder structure I mention above, and the latest MAME CHD sets.
-3. Create a pull request with the updated XML file. I'll check the folder structure, and will accept ASAP.
-4. If you want to do a rough cut first, and then do another update later, please feel free. Anything is better than nothing.
-
-## Progress:
-
-* Saturn - WIP (Slagfart)
-* Other consoles - open to contribution!
+* Saturn
+* PSX
+* NEC TurboGrafx-CD
