@@ -10,6 +10,4 @@
 
 ## Platforms done:
 
-* Saturn
-* PSX
-* NEC TurboGrafx-CD
+* Sega CD
